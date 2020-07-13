@@ -1,0 +1,33 @@
+﻿@model WebDemo.Models.Rolie
+
+@using (Html.BeginForm())
+{
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="text-right text-danger">@TempData["Message"]</div>
+            <div class="form-group">
+                <label>Id</label>
+                @Html.TextBoxFor(m => m.Id, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                <label>Tên</label>
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="panel-footer">
+            <button class="btn btn-default" formaction="@ViewBag.Controller/Insert">
+                <span class="glyphicon glyphicon-save"></span> Create
+            </button>
+            <button class="btn btn-default" formaction="@ViewBag.Controller/Update">
+                <span class="glyphicon glyphicon-saved"></span> Update
+            </button>
+            <button class="btn btn-default" formaction="@ViewBag.Controller/Delete">
+                <span class="glyphicon glyphicon-trash"></span> Delete
+            </button>
+            <a class="btn btn-default" href="@ViewBag.Controller/Index">
+                <span class="glyphicon glyphicon-plus"></span> New
+            </a>
+        </div>
+    </div>
+}

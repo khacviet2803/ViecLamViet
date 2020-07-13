@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Đăng nhập";
+}
+@using (Html.BeginForm("Login",
+                        "Home",
+                        FormMethod.Post,
+                        new { enctype = "multipart/form-data" }))
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">ĐĂNG NHẬP</div>
+        <div class="panel-body">
+            @Html.ValidationSummary()
+            @using (Html.BeginForm())
+            {
+                <div class="form-group">
+                    <label>Tên đăng nhập</label>
+                    @Html.TextBox("Id", null, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Mật khẩu</label>
+                    @Html.Password("Password", null, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-danger">Đăng nhập</button>                  
+                </div>
+            }
+          
+        </div>
+    </div>
+}

@@ -1,0 +1,185 @@
+﻿@model  WebDemo.Models.RecruitInfo
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Demo</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Favicon -->
+        <link rel="shortcut icon" type="image/x-icon" href="~/img/favicon.png">
+
+        <!-- all css here -->
+        <!-- bootstrap v3.3.6 css -->
+        <link rel="stylesheet" href="~/css/bootstrap.min.css">
+        <!-- animate css -->
+        <link rel="stylesheet" href="~/css/animate.css">
+        <!-- meanmenu css -->
+        <link rel="stylesheet" href="~/css/meanmenu.min.css">
+        <!-- owl.carousel css -->
+        <link rel="stylesheet" href="~/css/owl.carousel.css">
+        <!-- font-awesome css -->
+        <link rel="stylesheet" href="~/css/font-awesome.min.css">
+        <!-- flexslider.css-->
+        <link rel="stylesheet" href="~/css/flexslider.css">
+        <!-- chosen.min.css-->
+        <link rel="stylesheet" href="~/css/chosen.min.css">
+        <!-- style css -->
+        <link href="~/css/style.css" rel="stylesheet" />
+        <!-- responsive css -->
+        <link rel="stylesheet" href="~/css/responsive.css">
+        <!-- modernizr css -->
+        <script src="~/js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <style>
+            .button {
+                background-color: Crimson;
+                border: none;
+                color: black;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 32px;
+                margin: 4px 2px;
+                cursor: pointer;
+            }
+
+
+            .button2 {
+                background-color: Crimson;
+                border-radius: 4px;
+                width: 70%;
+                height: 50px;
+            }
+        </style>
+
+    </head>
+    <body class="blog-details">
+
+        <div class="blog-main-area mb-70">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                        <div class="blog-main-wrapper">
+                            <div class="author-destils mb-30">
+                                <div class="author-left">
+                                    <div class="row">
+                                        <div class="col-lg-4">
+
+                                            <img src="@Model.Logo">
+                                        </div>
+                                        <div class="col-lg-4">
+                                            <div class="author-description">
+                                                <h3>
+                                                    @Model.Master.CompanyName
+                                                </h3>
+                                                <span>@Model.City</span>
+                                                <div><br /></div>
+
+                                                <span>@Model.Master.Mobile</span>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="blog-img mb-30">
+                                <img src="@Model.poster" width="150%" height="70%" alt="blog" />
+                            </div>
+                            <div class="single-blog-content">
+                                <div class="single-blog-title">
+                                    <h3>Giới Thiệu Công Ty</h3>
+                                </div>
+
+                                <div class="blog-single-content">
+
+                                    <script> document.write(unescape("@Model.About"));</script>
+
+                                </div>
+                                <div class="single-blog-title">
+                                    <h3>Tại Sao Bạn Thích Làm Việc Ở Đây</h3>
+                                </div>
+
+                                <div class="blog-single-content">
+                                    <script> document.write(unescape("@Model.OtherRequire"));</script>
+                                </div>
+                            </div>
+                           
+                               <div class="single-blog-title">
+                                    <h3>Địa Chỉ</h3>
+                                </div>
+                                <div class="blog-single-content">
+                                    <iframe src="@Model.Address " width="1200" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                </div>
+
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="blog-main-area mb-70">
+
+            <div class="container">
+                <h3>Tất Cả Việc Làm Đã Đăng</h3>
+                <div class="row">
+
+                    <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                        <div class="blog-main-wrapper">
+                            @foreach (var item in @ViewBag.Data)
+                            {
+                                <div class="single-blog-post">
+                                    <div class="author-destils mb-30">
+                                        <div class="author-left">
+                                            <div class="author-img">
+                                                <a href="#"><img src="@item.RecruitInfo.Logo" alt="man" /></a>
+                                            </div>
+                                            <div class="author-description">
+                                                <h3>
+                                                    @item.RecruitPosition
+                                                
+                                                </h3>
+                                                <i class="fa fa-dollar"></i>
+                                                <span>@item.RayOfPay</span>
+                                            </div>
+                                        </div>
+                                        <div class="author-right">
+                                            <span>@item.RecruitInfo.City</span>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="single-blog-content">
+
+                                        <div class="blog-single-content">
+                                            <p></p>
+                                            <script> document.write(unescape("@item.Require"));</script>
+                                        </div>
+                                    </div>
+                                    <div class="blog-comment-readmore">
+
+                                        <div class="row">
+                                            <div class="col-lg-4">
+                                                <a href="/Home/Detail/@item.Id">Xem Chi Tiết<i class="fa fa-long-arrow-right"></i></a>
+                                            </div>
+                                           
+                                        </div>
+
+                                    </div>
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+

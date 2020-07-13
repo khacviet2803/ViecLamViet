@@ -1,0 +1,28 @@
+﻿@model WebDemo.Models.WebAction
+@{
+    ViewBag.Title = "WebAction Manager";
+    ViewBag.Controller = "/Admin/WebAction";
+}
+
+<h2>@ViewBag.Title</h2>
+<ul class="nav nav-tabs">
+    <li class="active">
+        <a data-toggle="tab" href="#list"><span class="glyphicon glyphicon-list-alt"></span> DANH SÁCH</a>
+    </li>
+    <li>
+        <a data-toggle="tab" href="#edit"><span class="glyphicon glyphicon-edit"></span> CẬP NHẬT</a>
+
+    </li>
+</ul>
+
+<div class="tab-content">
+    <div id="list" class="tab-pane fade in active">
+        @Html.Partial("_List")
+    </div>
+    <div id="edit" class="tab-pane fade ">
+        @Html.Partial("_Edit", Model)
+    </div>
+
+</div>
+
+

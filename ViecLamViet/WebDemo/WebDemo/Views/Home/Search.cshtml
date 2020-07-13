@@ -1,0 +1,72 @@
+﻿
+@model IEnumerable<WebDemo.Models.RecruitJob>
+
+
+<body class="blog">
+    <!-- header-area-start -->
+    <!-- header-area-end -->
+    <!-- breadcrumbs-area-start -->
+    <!-- breadcrumbs-area-end -->
+    <!-- blog-main-area-start -->
+    <div class="blog-main-area mb-70">
+
+        <div class="container">
+            <h3>Việc làm dành tại Việt Nam dành cho bạn</h3>
+            <div class="row">
+
+                <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                    <div class="blog-main-wrapper">
+                        @foreach (var item in Model)
+                        {
+                            <div class="single-blog-post">
+                                <div class="author-destils mb-30">
+                                    <div class="author-left">
+                                        <div class="author-img">
+                                            <a href="/Home/ShowRecruitInfo/@item.RecruitInfoId"><img src="@item.RecruitInfo.Logo" alt="man" /></a>
+                                        </div>
+                                        <div class="author-description">
+                                            <h3>
+                                                <a href="/Home/Detail/@item.Id">  @item.RecruitPosition</a>
+                                              
+                                            </h3>
+                                            <i class="fa fa-dollar"></i>
+                                            <span>@item.RayOfPay</span>
+                                        </div>
+                                    </div>
+                                    <div class="author-right">
+                                        <span>@item.RecruitInfo.City</span>
+                                       
+                                    </div>
+                                </div>
+                               
+                               <div class="single-blog-content">
+                                    
+                                    <div class="blog-single-content">
+                                        <p></p>
+                                        <script> document.write(unescape("@item.OtherRequire"));</script>
+                                    </div>
+                                </div>
+                                <div class="blog-comment-readmore">
+                                    <div class="blog-readmore">
+                                        <a href="/Home/Detail/@item.Id">Xem Chi Tiết<i class="fa fa-long-arrow-right"></i></a>
+                                    </div>
+                                   
+                                </div>
+                            </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- blog-main-area-end -->
+    <!-- footer-area-start -->
+    <!-- footer-area-end -->
+    <!-- all js here -->
+
+</body>
+
+
+

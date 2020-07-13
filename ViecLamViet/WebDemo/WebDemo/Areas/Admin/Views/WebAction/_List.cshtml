@@ -1,0 +1,30 @@
+﻿<div class="panel panel-default">
+    <table class="table table-hover table-condensed">
+        <thead>
+            <tr>
+                <th>Mã</th>
+                <th>Tên</th>
+                <th>Chi Tiết</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Item in ViewBag.Items as List<WPS.Model.Models.WebAction>)
+            {
+                <tr>
+                    <td>@Item.Id</td>
+                    <td>@Item.Name</td>
+                    <td>@Item.Description</td>
+                    <td>
+                        <a href="@ViewBag.Controller/Edit/@Item.Id" class="btn btn-sm btn-default">
+                            <span class="glyphicon glyphicon-edit"></span> Edit
+                        </a>
+                        <a href="@ViewBag.Controller//Delete/@Item.Id" class="btn btn-sm btn-default">
+                            <span class="glyphicon glyphicon-trash"></span> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

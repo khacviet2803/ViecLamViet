@@ -1,0 +1,60 @@
+﻿@using WPS.Model.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2> Quản Lý quyền Master</h2>
+
+@Html.DropDownList("MasterId", null, new { @class = "form-control" })
+
+<ul>
+    @foreach (var role in ViewBag.Roles)
+    {
+        <li>
+            <label>
+                <input type="checkbox" value="@role.Id" /> @role.Name
+            </label>
+        </li>
+    }
+</ul>
+
+<script>
+    $(document).ready(function () {
+        
+        $("#MasterId").change(function () {
+            var mid = $(this).val();
+          
+            $.ajax({
+                url: "/Admin/MasterRole/GetRoleIds",
+                data: {MasterId: mid},
+                success: function (response) {
+                      
+                    $(":checkbox").prop("checked", false);
+                       
+                    for (var i = 0; i < response.length; i++) {
+                        var roleId = response[i];
+                     
+                        $(":checkbox[value=" + roleId + "]").prop("checked", true);
+                    }
+
+                   
+                }
+            });
+        });
+        $("#MasterId").change();
+        
+
+        $(":checkbox").click(function () {
+            var rid = $(this).val();
+            var mid = $("#MasterId").val();
+          
+            $.ajax({
+                url: "/Admin/MasterRole/AddOrDelete",
+                data: { ID: mid, RoleId: rid },
+                success: function (response) {
+                    alert("Cập nhật thành công");
+                }
+            });
+        });
+    });
+</script>

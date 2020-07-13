@@ -1,0 +1,100 @@
+﻿@model  WebDemo.Models.RecruitInfo
+
+<head>
+    <style>
+        .button {
+            background-color: Crimson;
+            border: none;
+            color: black;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 32px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+
+        .button2 {
+            background-color: Crimson;
+            border-radius: 4px;
+            width: 70%;
+            height: 50px;
+        }
+    </style>
+</head>
+<body class="blog-details">
+
+    <div class="blog-main-area mb-70">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                    <div class="blog-main-wrapper">
+                        <div class="author-destils mb-30">
+                            <div class="author-left">
+                                <div class="row">
+                                    <div class="col-lg-2">
+                                        <div class="author-img">
+                                            <a href="#"><img src="@Model.Logo" alt="man" height="150" width="150"/></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="author-description">
+                                            <h3>
+                                                @Model.Master.CompanyName
+                                            </h3>
+                                            <span>@Model.City</span>
+                                            <div><br /></div>
+
+                                            <span>@Model.Master.Mobile</span>
+
+                                        </div>
+                                        </div>
+                                    </div>
+                                </div>                          
+
+                        </div>
+                        <div class="blog-img mb-30">
+                            <img src="@Model.poster" width="150%" height="70%" alt="blog" />
+                        </div>
+                        <div class="single-blog-content">
+                            <div class="single-blog-title">
+                                <h3>Giới Thiệu Công Ty</h3>
+                            </div>
+
+                            <div class="blog-single-content">
+                                <script> document.write(unescape("@Model.About"));</script>
+                            </div>
+                            <div class="single-blog-title">
+                                <h3>Tại Sao Bạn Thích Làm Việc Ở Đây</h3>
+                            </div>
+
+                            <div class="blog-single-content">
+                                <script> document.write(unescape("@Model.OtherRequire"));</script>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-1">
+
+                            </div>
+                            <div class="blog-single-content">
+                                <iframe src="@Model.Address " width="1250" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                               
+                            </div>
+                            <div class="col-lg-1 ">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+

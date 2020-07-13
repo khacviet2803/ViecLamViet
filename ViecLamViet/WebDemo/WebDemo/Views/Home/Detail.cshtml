@@ -1,0 +1,113 @@
+﻿@model  WebDemo.Models.RecruitJob
+
+    <head>
+        <style>
+            .button {
+                background-color: Crimson;
+                border: none;
+                color: black;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 32px;
+                margin: 4px 2px;
+                cursor: pointer;
+            }
+
+           
+            .button2 {
+                background-color: Crimson;                
+                border-radius: 4px;
+                width: 70%;     
+                height:50px;
+            }
+
+           
+        </style>
+    </head>
+<body class="blog-details">
+
+    <div class="blog-main-area mb-70">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                    <div class="blog-main-wrapper">
+                        <div class="author-destils mb-30">
+                            <div class="author-left">
+                                <div class="author-img">
+                                    <a href="/Home/ShowRecruitInfo/@Model.RecruitInfoId"><img src="@Model.RecruitInfo.Logo" alt="man" /></a>
+                                </div>
+                                <div class="author-description">
+                                    <h3>
+                                        @Model.Amount  @Model.RecruitPosition
+                                    </h3>
+                                    <span>@Model.RecruitInfo.City</span>
+                                    <div><br /></div>
+                                    <i class="fa fa-dollar"></i>
+                                    <span>@Model.RayOfPay</span>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="blog-img mb-30">
+                            <div class="row">
+                                <div class="col-lg-1">
+
+                                </div>
+                                <div class="col-lg-10">
+                                    <form action="@Url.Action("Apply", "Home",new { id = @Model.Id })"   method="post">
+                                        <button class="button2" >Ứng Viên</button>
+                                        </form>
+                                </div>
+                                <div class="col-lg-1 ">
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="single-blog-content">
+
+                            <div class="single-blog-title">
+                                <h4>Mô Tả Công Việc</h4>
+                            </div>
+                            <div class="blog-single-content">
+                                <script> document.write(unescape("@Model.Describe"));</script>
+                            </div>
+                            <div class="single-blog-title">
+                                <h4>Yêu Cầu Công Việc</h4>
+                            </div>
+                            <div class="blog-single-content">
+                                <script> document.write(unescape("@Model.Require"));</script>
+                            </div>
+                            <div class="single-blog-title">
+                                <h4>Tại Sao Bạn Sẽ Yêu Thích Làm Việc Tại Đây</h4>
+                            </div>
+                            <div class="blog-single-content">
+                                <script> document.write(unescape("@Model.OtherRequire"));</script>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-1">
+
+                            </div>
+                            <div class="col-lg-10">
+                                <button class="button2">Ứng Viên</button>
+                            </div>
+                            <div class="col-lg-1 ">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+</body>
+
+

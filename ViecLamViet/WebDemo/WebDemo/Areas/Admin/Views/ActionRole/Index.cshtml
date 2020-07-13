@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+    <h2>Quản Lý Vai Trò </h2>
+<div id="messsage"></div>
+@Html.DropDownList("RoleId", null, new { @class = "form-control" })
+
+<ul class="list-unstyled">
+    @foreach (var action in ViewBag.WebActions)
+    {
+        <li class="col-sm-3">
+            <label>
+                <input type="checkbox" value="@action.Id" /> @action.Name
+            </label>
+        </li>
+    }
+</ul>
+
+<script>
+    $(document).ready(function () {
+        
+        $("#RoleId").change(function () {
+            var rid = $(this).val();
+              
+            $.ajax({
+                url: "/Admin/ActionRole/GetActionIds",
+                data: {RoleId: rid},
+                success: function (response) {
+                    $(":checkbox").prop("checked", false);
+                    for (var i = 0; i < response.length; i++) {
+                        var actionId = response[i];
+                        $(":checkbox[value=" + actionId + "]").prop("checked", true);
+                    }
+                }
+            });
+        });
+        $("#RoleId").change();
+        
+
+        $(":checkbox").click(function () {
+            var aid = $(this).val();
+            var rid = $("#RoleId").val();
+
+            $.ajax({
+                url: "/Admin/ActionRole/AddOrDelete",
+                data: { WebActionId: aid, RoleId: rid },
+                success: function (response) {
+                    $("#messsage").html(response);
+                }
+            });
+        });
+    });
+</script>

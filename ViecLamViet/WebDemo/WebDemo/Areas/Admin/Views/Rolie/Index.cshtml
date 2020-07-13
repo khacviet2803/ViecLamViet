@@ -1,0 +1,26 @@
+﻿@model WebDemo.Models.Rolie
+@{
+    ViewBag.Title = "Role Manager";
+    ViewBag.Controller = "/Admin/Rolie";
+}
+
+<h2>@ViewBag.Title</h2>
+<ul class="nav nav-tabs">
+    <li class="active">
+        <a data-toggle="tab" href="#edit"><span class="glyphicon glyphicon-edit"></span> CẬP NHẬT</a>
+    </li>
+    <li>
+        <a data-toggle="tab" href="#list"><span class="glyphicon glyphicon-list-alt"></span> DANH SÁCH</a>
+    </li>
+</ul>
+
+<div class="tab-content">
+    <div id="edit" class="tab-pane fade in active">
+        @Html.Partial("_Edit", Model)
+    </div>
+    <div id="list" class="tab-pane fade">
+        @Html.Partial("_List")
+    </div>
+</div>
+
+

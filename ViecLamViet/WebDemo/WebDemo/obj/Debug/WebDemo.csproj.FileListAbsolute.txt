@@ -1,0 +1,257 @@
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\WebDemo.dll.config
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\WebDemo.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\WebDemo.pdb
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\csc.exe
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\csc.exe.config
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\csc.rsp
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\csi.exe
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\csi.exe.config
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\csi.rsp
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Console.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\vbc.exe
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\vbc.exe.config
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\vbc.rsp
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Antlr3.Runtime.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\EntityFramework.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Newtonsoft.Json.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Helpers.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Mvc.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Optimization.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Razor.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.WebPages.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\WebGrease.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\EntityFramework.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Helpers.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Mvc.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Optimization.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.Razor.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.WebPages.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Newtonsoft.Json.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.CopyComplete
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\obj\Debug\WebDemo.Migrations.addModel.resources
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\WebDemo\WebDemo\obj\Debug\WebDemo.csprojAssemblyReference.cache
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\WebDemo.dll.config
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\WebDemo.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\WebDemo.pdb
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.exe
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.exe.config
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.rsp
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csi.exe
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csi.exe.config
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csi.rsp
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Console.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.exe
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.exe.config
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.rsp
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Antlr3.Runtime.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Newtonsoft.Json.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Helpers.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Mvc.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Optimization.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Razor.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\WebGrease.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Helpers.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Mvc.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Optimization.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Razor.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Newtonsoft.Json.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csprojAssemblyReference.cache
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.CopyComplete
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.Migrations.create.resources
+C:\Users\Asus VivoBook\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.GenerateResource.cache
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\WebDemo.dll.config
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\WebDemo.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\WebDemo.pdb
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.exe
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.exe.config
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.rsp
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\csi.exe
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\csi.exe.config
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\csi.rsp
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Console.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.exe
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.exe.config
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.rsp
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Antlr3.Runtime.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\EntityFramework.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Newtonsoft.Json.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Helpers.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Mvc.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Optimization.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Razor.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\WebGrease.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\EntityFramework.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Helpers.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Mvc.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Optimization.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.Razor.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Newtonsoft.Json.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csprojAssemblyReference.cache
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.CopyComplete
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.Migrations.creat.resources
+C:\Users\Asus VivoBook\Desktop\Bao cao Tot Nghiep\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csproj.GenerateResource.cache

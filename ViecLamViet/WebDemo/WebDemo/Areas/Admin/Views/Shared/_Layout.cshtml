@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+@using WebDemo.Utils
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Administration</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="~/Scripts/eshop.js"></script>
+
+    @RenderSection("scripts", required: false)
+
+</head>
+<body>
+    <div class="container">
+        <div class="navbar navbar-inverse row">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/" class="navbar-brand">Trang chủ</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Quản lý <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/Admin/Master/Edit">Sửa Thông Tin</a></li>
+
+                            <li><a href="/Admin/Master/ShowRecruitJob">Quản Lý Tuyển Dụng</a></li>
+                            <li><a href="/Admin/RecruitJobs/Create">Đăng Tuyển Dụng</a></li>
+                            <li><a href="/Admin/Master/ShowCandidate">Xem Danh Sách Toàn Bộ Ứng Viên</a></li>
+
+                        </ul>
+                    </li>                 
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tài khoản <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            @if (XSession.Master != null)
+                            {
+                                <li><a href="/Admin/Home/Logoff">Đăng xuất</a></li>
+                                <li><a href="/Admin/Home/Change">Đổi mật khẩu</a></li>
+                            }
+                            else
+                            {
+                                <li><a href="/Admin/Home/Login">Đăng Nhập</a></li>
+                                <li><a href="/Admin/Home/Register">Đăng Kí</a></li>
+                            }
+                            
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="nn-sheet row">
+            <article class="nn-body">
+                @RenderBody()
+            </article>
+        </div>
+
+      
+    </div>
+</body>
+</html>
